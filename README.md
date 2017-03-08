@@ -7,9 +7,12 @@
     * 1.2
     * 1.3
 * 使用GitHub
+
 ~Markdown~的基本语法
+
 具体方法请查阅[**百度**](www.baidu.com)
-> GitHub is free software.
+
+>GitHub is free software.
 
 ~~~
 GitHub is free software.
